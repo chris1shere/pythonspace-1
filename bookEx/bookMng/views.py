@@ -161,3 +161,34 @@ def search(request):
         return render(request, 'bookMng/search.html', {
                       'item_list': MainMenu.objects.all()
                   })
+
+    def messagebox(request):
+        books = Book.objects.all()
+        for b in books:
+            b.pic_path = b.picture.url[14:]
+        return render(request,
+                      'bookMng/messagebox.html',
+                      {
+                          'item_list': MainMenu.objects.all(),
+                          'books': books,
+                      })
+
+    class bookmessage:
+        def __init__(self, name):
+            self.name = name
+            self.messages = []
+
+        def add(self, message):
+            self.messages.append(message)
+
+    @login_required(login_url=reverse_lazy('login'))
+    def book_message(request, book_id, message=str):
+        book = Book.objects.get(id=book_id)
+        one = bookmessage(book)
+        one.add(message)
+        return render(request,
+                      'bookMng/book_message.html',
+                      {
+                          'item_list': MainMenu.objects.all(),
+                          'book': book,
+                      })
