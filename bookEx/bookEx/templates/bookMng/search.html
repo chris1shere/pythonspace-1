@@ -3,21 +3,31 @@
 
 {% block content %}
     <h1 align="center"> Search For A Book In Our System</h1>
-    <div align="center">
-        <form action="{% url 'search' %}" method="GET" value="{{request.GET.b}}">
-            <input type="text" name="b" value="{{request.GET.b}}" placeholder="Search Books by Title Or Username"/>
-            <input type="submit" name="submit" value="Search"/>
+    <form action="{% url 'search' %}" method="GET" value="{{request.GET.b}}">
+        <div class="mb-3">
+            <input type="text" class="form-control" name="b" value="{{request.GET.b}}" placeholder="Search Books by Title Or Username"/>
+        </div>
+            <button type="submit" name="submit" class="btn btn-primary btn-lg" value="Search"> Search </button>
+
         </form>
+
 
         {% if submitbutton == 'Search' and request.GET.b != ''%}
             {% if results %}
                 <h1>Results for <b>{{ request.GET.b }}</b></h1>
-                <br><br>
-                <table align="center" border="2" width="300" >
+                <br>
+                <table class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <th scope="col">Book Name</th>
+                            <th scope="col">Book Image</th>
+                            <th scope="col">Author</th>
+                        </tr>
+                    </thead>
                 {% for result in results %}
                     <tr>
                     <td>
-                        <a href ="book_detail/{{ result.id }}"> {{ result.name }} </a>
+                        <a href ="book_detail/{{ result.id }}" class="text-warning"> {{ result.name }} </a>
                     </td>
                     <td>
                         <img src="{% static result.picture_path %}" width="60" height="60">
