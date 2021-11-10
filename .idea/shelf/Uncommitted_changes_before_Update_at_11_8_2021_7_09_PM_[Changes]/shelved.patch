@@ -1,0 +1,110 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"2e8a95e6-16c3-4816-bb60-70f621498e84\" name=\"Changes\" comment=\"\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/misc.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/modules.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/modules.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/pythonspace.iml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/pythonspace.iml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/vcs.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/vcs.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/bookEx/bookEx/asgi.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/bookEx/bookEx/asgi.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/bookEx/bookEx/settings.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/bookEx/bookEx/settings.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/bookEx/bookEx/static/main.css\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/bookEx/bookEx/static/main.css\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/bookEx/bookEx/templates/base.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/bookEx/bookEx/templates/base.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/bookEx/bookEx/templates/bookMng/aboutus.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/bookEx/bookEx/templates/bookMng/aboutus.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/bookEx/bookEx/templates/bookMng/book_delete.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/bookEx/bookEx/templates/bookMng/book_delete.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/bookEx/bookEx/templates/bookMng/book_detail.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/bookEx/bookEx/templates/bookMng/book_detail.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/bookEx/bookEx/templates/bookMng/displaybooks.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/bookEx/bookEx/templates/bookMng/displaybooks.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/bookEx/bookEx/templates/bookMng/index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/bookEx/bookEx/templates/bookMng/index.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/bookEx/bookEx/templates/bookMng/mybooks.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/bookEx/bookEx/templates/bookMng/mybooks.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/bookEx/bookEx/templates/bookMng/postbook.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/bookEx/bookEx/templates/bookMng/postbook.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/bookEx/bookEx/templates/bookMng/search.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/bookEx/bookEx/templates/bookMng/search.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/bookEx/bookEx/templates/registration/login.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/bookEx/bookEx/templates/registration/login.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/bookEx/bookEx/templates/registration/register.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/bookEx/bookEx/templates/registration/register.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/bookEx/bookEx/templates/registration/register_success.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/bookEx/bookEx/templates/registration/register_success.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/bookEx/bookEx/urls.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/bookEx/bookEx/urls.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/bookEx/bookEx/wsgi.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/bookEx/bookEx/wsgi.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/bookEx/bookMng/admin.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/bookEx/bookMng/admin.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/bookEx/bookMng/apps.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/bookEx/bookMng/apps.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/bookEx/bookMng/forms.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/bookEx/bookMng/forms.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/bookEx/bookMng/migrations/0001_initial.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/bookEx/bookMng/migrations/0001_initial.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/bookEx/bookMng/migrations/0002_book.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/bookEx/bookMng/migrations/0002_book.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/bookEx/bookMng/models.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/bookEx/bookMng/models.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/bookEx/bookMng/tests.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/bookEx/bookMng/tests.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/bookEx/bookMng/urls.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/bookEx/bookMng/urls.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/bookEx/bookMng/views.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/bookEx/bookMng/views.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/bookEx/db.sqlite3\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/bookEx/db.sqlite3\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/bookEx/manage.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/bookEx/manage.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/main.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/main.py\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"HTML File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"20ZMg6NerqkCMGRDOQP58I5N8p9\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"DefaultHtmlFileTemplate\" value=\"HTML File\" />\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$/../../csula/Fall2021/Software Engineering/backup/bookEx/bookEx/templates/bookMng/book_detail.html\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable\" />\r\n  </component>\r\n  <component name=\"RunManager\">\r\n    <configuration name=\"bookEx\" type=\"PythonConfigurationType\" factoryName=\"Python\">\r\n      <module name=\"pythonspace\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"C:\\Users\\nishi\\anaconda3\\python.exe\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/bookEx\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"false\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"\" />\r\n      <option name=\"PARAMETERS\" value=\"manage.py runserver\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"2e8a95e6-16c3-4816-bb60-70f621498e84\" name=\"Changes\" comment=\"Fixed table bug/ added new books to the account aaaccc\" />\r\n      <created>1636247764922</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1636247764922</updated>\r\n      <workItem from=\"1636300554041\" duration=\"4501000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Fixed table bug/ added new books to the account aaaccc\">\r\n      <created>1636250767243</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1636250767243</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"2\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Fixed table bug/ added new books to the account aaaccc\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Fixed table bug/ added new books to the account aaaccc\" />\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <breakpoints>\r\n        <line-breakpoint enabled=\"true\" suspend=\"THREAD\" type=\"python-line\">\r\n          <url>file://$PROJECT_DIR$/bookEx/bookMng/views.py</url>\r\n          <line>138</line>\r\n          <option name=\"timeStamp\" value=\"2\" />\r\n        </line-breakpoint>\r\n      </breakpoints>\r\n    </breakpoint-manager>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -1,42 +1,13 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
++  <component name="AutoImportSettings">
++    <option name="autoReloadType" value="SELECTIVE" />
++  </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="2e8a95e6-16c3-4816-bb60-70f621498e84" name="Changes" comment="">
+-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
++    <list default="true" id="2e8a95e6-16c3-4816-bb60-70f621498e84" name="Changes" comment="Fixed table bug/ added new books to the account aaaccc">
+       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/pythonspace.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonspace.iml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/bookEx/bookEx/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookEx/bookEx/asgi.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/bookEx/bookEx/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookEx/bookEx/settings.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/bookEx/bookEx/static/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/bookEx/bookEx/static/main.css" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/bookEx/bookEx/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/bookEx/bookEx/templates/base.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/bookEx/bookEx/templates/bookMng/aboutus.html" beforeDir="false" afterPath="$PROJECT_DIR$/bookEx/bookEx/templates/bookMng/aboutus.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/bookEx/bookEx/templates/bookMng/book_delete.html" beforeDir="false" afterPath="$PROJECT_DIR$/bookEx/bookEx/templates/bookMng/book_delete.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/bookEx/bookEx/templates/bookMng/book_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/bookEx/bookEx/templates/bookMng/book_detail.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/bookEx/bookEx/templates/bookMng/displaybooks.html" beforeDir="false" afterPath="$PROJECT_DIR$/bookEx/bookEx/templates/bookMng/displaybooks.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/bookEx/bookEx/templates/bookMng/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/bookEx/bookEx/templates/bookMng/index.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/bookEx/bookEx/templates/bookMng/mybooks.html" beforeDir="false" afterPath="$PROJECT_DIR$/bookEx/bookEx/templates/bookMng/mybooks.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/bookEx/bookEx/templates/bookMng/postbook.html" beforeDir="false" afterPath="$PROJECT_DIR$/bookEx/bookEx/templates/bookMng/postbook.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/bookEx/bookEx/templates/bookMng/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/bookEx/bookEx/templates/bookMng/search.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/bookEx/bookEx/templates/registration/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/bookEx/bookEx/templates/registration/login.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/bookEx/bookEx/templates/registration/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/bookEx/bookEx/templates/registration/register.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/bookEx/bookEx/templates/registration/register_success.html" beforeDir="false" afterPath="$PROJECT_DIR$/bookEx/bookEx/templates/registration/register_success.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/bookEx/bookEx/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookEx/bookEx/urls.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/bookEx/bookEx/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookEx/bookEx/wsgi.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/bookEx/bookMng/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookEx/bookMng/admin.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/bookEx/bookMng/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookEx/bookMng/apps.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/bookEx/bookMng/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookEx/bookMng/forms.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/bookEx/bookMng/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookEx/bookMng/migrations/0001_initial.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/bookEx/bookMng/migrations/0002_book.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookEx/bookMng/migrations/0002_book.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/bookEx/bookMng/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookEx/bookMng/models.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/bookEx/bookMng/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookEx/bookMng/tests.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/bookEx/bookMng/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookEx/bookMng/urls.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/bookEx/bookMng/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookEx/bookMng/views.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/bookEx/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/bookEx/db.sqlite3" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/bookEx/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookEx/manage.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -52,6 +23,14 @@
+   </component>
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++  </component>
++  <component name="GithubPullRequestsUISettings">
++    <option name="selectedUrlAndAccountId">
++      <UrlAndAccount>
++        <option name="accountId" value="390a5543-57ca-43fa-9f26-3b4375e22964" />
++        <option name="url" value="https://github.com/LyJacky/pythonspace.git" />
++      </UrlAndAccount>
++    </option>
+   </component>
+   <component name="ProjectId" id="20ZMg6NerqkCMGRDOQP58I5N8p9" />
+   <component name="ProjectViewState">
+Index: .idea/pythonspace.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<module type=\"PYTHON_MODULE\" version=\"4\">\r\n  <component name=\"NewModuleRootManager\">\r\n    <content url=\"file://$MODULE_DIR$\" />\r\n    <orderEntry type=\"jdk\" jdkName=\"Python 3.8 (base)\" jdkType=\"Python SDK\" />\r\n    <orderEntry type=\"sourceFolder\" forTests=\"false\" />\r\n  </component>\r\n</module>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/pythonspace.iml b/.idea/pythonspace.iml
+--- a/.idea/pythonspace.iml	
++++ b/.idea/pythonspace.iml	
+@@ -2,7 +2,7 @@
+ <module type="PYTHON_MODULE" version="4">
+   <component name="NewModuleRootManager">
+     <content url="file://$MODULE_DIR$" />
+-    <orderEntry type="jdk" jdkName="Python 3.8 (base)" jdkType="Python SDK" />
++    <orderEntry type="inheritedJdk" />
+     <orderEntry type="sourceFolder" forTests="false" />
+   </component>
+ </module>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ProjectRootManager\" version=\"2\" project-jdk-name=\"Python 3.8 (base)\" project-jdk-type=\"Python SDK\" />\r\n  <component name=\"PyCharmProfessionalAdvertiser\">\r\n    <option name=\"shown\" value=\"true\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+--- a/.idea/misc.xml	
++++ b/.idea/misc.xml	
+@@ -1,6 +1,6 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.8 (base)" project-jdk-type="Python SDK" />
++  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.8" project-jdk-type="Python SDK" />
+   <component name="PyCharmProfessionalAdvertiser">
+     <option name="shown" value="true" />
+   </component>

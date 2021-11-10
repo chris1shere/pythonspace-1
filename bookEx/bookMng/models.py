@@ -40,6 +40,10 @@ class Book(models.Model):
     def __str__(self):
         return str(self.id)
 
+class Messages(models.Model):
+    message = models.CharField(max_length=200)
+    def __str__(self):
+        return str(self.id)
 
 # class Readers(User):
     # book_id = models.ForeignKey(Book, blank=True, null=True, on_delete=models.CASCADE)
